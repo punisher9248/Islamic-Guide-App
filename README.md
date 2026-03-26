@@ -69,13 +69,6 @@ The quraan app helps you to read the quraan using your mobile. The app consists 
 
 
 
-## Translated Quraan App
-
-The translated quraan app helps you foreign people to understand the quraan uising mobile phone only. The app will consists o complete function to save bookmarks and help you to complete reading from where you have stopped last time, also it consists of complete search and each sura.
-Hint : The App will come in the coming version
-
- https://user-images.githubusercontent.com/80456446/140646389-a05977d3-a6a3-4380-9dba-090739b3e123.mp4
-
 
 ## Mutashabihat El Quraan App
 Searching By Word and getting the Surah & the Ayah where the word is located and how many times the word is repeated in quran.
