@@ -4,7 +4,7 @@ import 'package:muslim_dialy_guide/globals/globals.dart' as globals;
 import 'package:muslim_dialy_guide/screens/quraan_arabic/quraan_arabic.dart';
 
 import 'package:shared_preferences/shared_preferences.dart';
-
+//Implemented UI for home screen
 class ArabicQuranSplashScreen extends StatefulWidget {
   static const String routeName = 'quranArabicSplashScreen';
 
