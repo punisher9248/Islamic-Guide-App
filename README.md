@@ -182,9 +182,6 @@ Light Mode Screenshot               |  Light Mode Screenshot
 :-------------------------:|:-------------------------:
 ![Screenshot_1636293766](https://user-images.githubusercontent.com/80456446/140648368-2b9dbae9-d3fb-4309-a0fe-6dfe45ec8876.png)|![Screenshot_1636293770](https://user-images.githubusercontent.com/80456446/140648371-3c1c5bd4-db91-4182-9ed7-051b51fc1fa8.png)
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />Features aimed to be added in the coming versions<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
-  </h1>
 
   <img src="https://user-images.githubusercontent.com/80456446/140655150-3d0e99d9-4293-4f31-8dfb-9aca2a0922c5.gif" align="left" width="270" hspace="10" vspace="10">
 
