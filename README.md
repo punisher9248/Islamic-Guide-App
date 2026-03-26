@@ -121,31 +121,6 @@ hint : Praying time (cairo location only - another counteries is coming soon)
 :-------------------------:|:-------------------------:
 ![Screenshot_1636292060](https://user-images.githubusercontent.com/80456446/140647322-d955b33e-bce0-49e5-b0c5-eb6ea982c510.png) | ![Screenshot_1636292164](https://user-images.githubusercontent.com/80456446/140647324-0c41224b-67fd-4077-af8a-c1001951d8f4.png)
 
-## Feedback Emotions Google Sheet Database
-
-
- New Animated flutter rate UI with animated emotions based on the rate of the user, also it take a written feedack and upload it to google sheet file as shown in the following video.
-
-
-https://user-images.githubusercontent.com/80456446/135735239-53e577c1-a270-4d48-acf9-61ce00c55269.mp4
-
-
-
-## google sheet databse
-
-The idea of this project is to upload the feedbacks to google sheet, so in this project we use the google sheet as a databse.
-
-![maxresdefault](https://user-images.githubusercontent.com/80456446/135735384-23955913-1b1d-4302-958f-1e93c5fbef66.jpg)
-
-
-## App Script
-To open app script, which we will be used to create and deploy api so we can use google sheet as a database. To do this please follow th following steps;
-
-- Open App Script from tools-->Script editor
-- write the foolowing .gs code
-![image](https://user-images.githubusercontent.com/80456446/135735468-4492ef11-5af9-4f32-a476-6f5fe6476ffa.png)
-- open the google sheet acess
-- deploy the app to web app
 
 
 ## Light Mode & Dark Mode
