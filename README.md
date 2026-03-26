@@ -1,5 +1,5 @@
 
-Muslim Guide App     |  Muslim Guide App
+Islamic Guide App     |  Islamic Guide App
 :-------------------------:|:-------------------------:
 ![Screenshot_1648816361](https://user-images.githubusercontent.com/80456446/161264107-4cac1094-a41a-43f9-b9db-16524185f0af.png) | ![Screenshot_1648816369](https://user-images.githubusercontent.com/80456446/161264115-9b082e0f-50b2-411c-81b1-a6630c2a7a85.png)
 <!--  ![Screenshot_1636289117](https://user-images.github
@@ -10,12 +10,12 @@ usercontent.com/80456446/140644822-ba0f887b-47c8-47d9-9f1f-738b68f1e39c.png) |  
 
 
 <h3 align="center">
-Muslim Guide App
+Islamic Guide App
 </h3>
 
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Muslim Guide App Downloadwer<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
+  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Islamic Guide App Downloadwer<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
   </h1>
 
   <img src="https://user-images.githubusercontent.com/80456446/140654099-49314c9d-1db7-4f7a-be07-3480615c7b54.gif" align="left" width="270" hspace="10" vspace="10">
@@ -23,7 +23,7 @@ Muslim Guide App
 <br/><br/>
 
 
-Mslim guide app is the app that help the muslims in their dialy habits like reading Quraan, Azkar elmoslem (Morning/Night/After Praying/Sleeping), Sebha, praying time and ElQibla direction (any place all over the world) .
+Islamic guide app is the app that help the muslims in their dialy habits like reading Quraan, Azkar elmoslem (Morning/Night/After Praying/Sleeping), Sebha, praying time and ElQibla direction (any place all over the world) .
 <br/></br></br>
   <h3 align="center" >
   <a href="https://drive.google.com/drive/folders/1b_KbBO8K3FYP4Q9wK1Ma-QpmoNOWAqGC?usp=sharing">
