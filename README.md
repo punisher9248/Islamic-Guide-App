@@ -41,7 +41,7 @@ Muslim guide app is a very awesome muslim guide build with flutter framework. Th
 - Azkar elmoslem (Morning/Night/After Praying/Sleeping)
 - Sebha App
 - Doaa App
-- Praying time (cairo location only - another counteries is coming soon)
+- Praying time
 - ElQibla direction (any place all over the world)
 
 The application is completely build with flutter framework and it is only target is to help the muslims to do good things and it's code is open source to help flutter students to use the exixting widgets and screens to build their own projects (if needed), so it is completely free and any one can contact with me any time to get help in the code.
