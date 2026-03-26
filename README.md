@@ -26,7 +26,7 @@ Islamic Guide App
 Islamic guide app is the app that help the muslims in their dialy habits like reading Quraan, Azkar elmoslem (Morning/Night/After Praying/Sleeping), Sebha, praying time and ElQibla direction (any place all over the world) .
 <br/></br></br>
   <h3 align="center" >
-  <a href="https://drive.google.com/drive/folders/1b_KbBO8K3FYP4Q9wK1Ma-QpmoNOWAqGC?usp=sharing">
+  <a href="https://drive.google.com/file/d/1HffzJnDhO90-kgV_KoLKLJimVrel3tDK/view?usp=sharing">
  <img src="https://user-images.githubusercontent.com/80456446/140654179-eca56dba-e3a6-4076-8625-de71d8a3a249.png" height="60"
          alt="Get it on Android">
  </a>
