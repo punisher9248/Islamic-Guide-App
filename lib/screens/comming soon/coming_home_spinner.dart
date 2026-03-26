@@ -6,7 +6,7 @@ import 'package:muslim_dialy_guide/widgets/comming_soon/spinner.dart';
 
 import '../../constants.dart';
 
-
+// Added prayer time calculation logic
 class ComingSoonSpinner extends StatelessWidget {
   static const String routeName = 'comingSoonSpinner';
 
